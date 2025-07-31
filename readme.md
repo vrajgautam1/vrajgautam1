@@ -1,5 +1,21 @@
-# 💫 About Me:
-🌌 I’m currently working on  <br>Backend development in Node.js<br><br>🤝 I’m looking to collaborate on  <br>Backend development projects<br><br>🤲 I’m looking for help with  <br>Building frontend interfaces for the backend APIs I’ve developed<br><br>🌱 I’m currently learning  <br>Advanced Node.js features and how to build industry-grade Node.js projects<br><br>💬 Ask me about  <br>how to build scalable industry grade back projects if u are a business person or a beginner<br><br>⚡ Fun fact  <br>Understanding Node.js deeply can save you from a world of bugs you didn’t know existed<br>
+## 🔥 About Me
+
+I'm a backend architect in the making — solving real-world business problems with clean, powerful Node.js code.  
+I don’t just code APIs; I build systems that *make sense*, scale well, and don’t break when the real world hits.
+
+Behind the logic, I’m also the guy cracking dumb jokes at 3 AM while debugging race conditions.  
+A mix of deep focus, random memes, and strong opinions on architecture patterns.
+
+I believe in owning what I know, learning what I don’t, and helping others bridge the same gap —  
+whether you're a business owner confused about tech or a beginner developer trying to build something real.
+
+---
+
+- 🧠 **Backend logic is my battlefield**  
+- 💼 **I think in systems**  
+- 😄 **I laugh mid-debug**  
+- ❤️ **I care way more than I show**  
+- 👊 **I'm building something that *lasts***  
 
 
 ## 🌐 Socials:
